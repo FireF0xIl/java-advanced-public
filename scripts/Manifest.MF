@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Vendor: FireF0xIl
+Main-Class: info.kgeorgiy.ja.firef0xil.implementor.Implementor
+Class-Path: ../../java-advanced-2022/artifacts/info.kgeorgiy.java.advanced.implementor.jar
